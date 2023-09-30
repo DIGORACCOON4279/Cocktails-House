@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36" width="36" height="36">
+	<title>shoppingcart</title>
+	<defs>
+		<image  width="30" height="26" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAaCAMAAACXfxyGAAAAAXNSR0IB2cksfwAAAGBQTFRFl5ial5ial5iaAAAAl5eamJial5ebl5iaj5+fl5ialZqal5eblpmZl5ial5eZl5ial5mal5eXmJial5mbl5ialpmbl5eamJiZmJiZl5ial5iZmZmdlpiYlpiamZmZlpeZl5n1MAAAACB0Uk5T/5/QAGDPoJAQ8DBAUN+AsOAg73+/cMCPmfrYRmF8LfsYmBSHAAAAu0lEQVR4nIXQ7RaCIAwG4FdnimKalqXmx/3fZUCUDMz2a4fH494NOKroUP9VDCJKgBOFlQKZZpEDRcjqVeLzXaAFkJPhEjgHXAH1m+kClD7HQGI5A1JPhQreWFZzWsFZrROTZf2n6MrqZuJa7vaO0ny52VG9q2WqgXvlVmcOhS1JuPrG+rDyN+vDtg83umQchKsYU5IfMomSRZce75XL/TA+eePypAaOrGE8q9eBNYyXFehZw2cv8+Q19AKvjQ3CaDxQHgAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="3" y="6"/>
+</svg>
